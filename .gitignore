@@ -14,4 +14,8 @@ results
 build
 .grunt
 
+.idea
+
+galleries
+
 node_modules
